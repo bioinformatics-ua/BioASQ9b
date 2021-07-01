@@ -1,12 +1,6 @@
 <h1 align="center">
-  <br>
-  
-  	<h2><a href="https://github.com/bioinformatics-ua/BioASQ9b">BioASQ 9b - phase A(2021)</a></h2>
-  
-  <br>
+  BioASQ 9b - phase A(2021)
 </h1>
-
-<h4 align="center">Track 2 - NLM-CHEM track Full-text Chemical Identification and Indexing in PubMed articles</h4>
 
 ### Documentation
 
