@@ -1,0 +1,5 @@
+__pycache__
+notebooks/.*
+dist/*
+mmnrm.egg-info/*
+build_mmnrm.sh
