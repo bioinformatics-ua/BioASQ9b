@@ -11,7 +11,7 @@ This code is mainly offered as a way to visualize the step that we performed, ho
 
 ### UPWM
 
-Lastly, the UPWM in here is sometimes called of SIBM, which is an old name. We are in process to extract the UPWM to a isolated repo, where anyone can used by just decorating any Keras model!.... stay tuned
+Lastly, the UPWM in here is sometimes called of SIBM, which is an old name. We are in process to extract the UPWM to an isolated repo, where anyone can use by just decorating any Keras model!.... stay tuned
 
 ### Team
   * Tiago Almeida<sup id="a1">[1](#f1)</sup>
