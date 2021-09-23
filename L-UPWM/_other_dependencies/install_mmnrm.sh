@@ -9,7 +9,7 @@ PWD="$(pwd)"
 PYTHON=$(pwd)/$VENV_NAME/bin/python
 PIP=$(pwd)/$VENV_NAME/bin/pip
 
-cd /home/tiagoalmeida/mmnrm
+cd _other_dependencies/mmnrm/
 if [ -d "./dist" ]
 then
 	rm -r ./dist
